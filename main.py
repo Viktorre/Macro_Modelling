@@ -7,6 +7,6 @@ if __name__ == '__main__':
     #print(pd.DataFrame([1, 2, 3]))
     di = DataImporter()
     di.put_csv_into_df("C:/Users/user/Documents/B.A. Governance Sem.6/Heidelberg Master/macropy/testfile.csv")
-    print(di.data,999999999999999999999999)
+    print(di.data,999999999999999999999999, 'asdasdasaasdsadsada')
 
 #scheun wie linearmodels hier rein!!!
