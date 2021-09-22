@@ -12,3 +12,4 @@ if __name__ == '__main__':
 
     model = MacroModel()
     print(model.test_method())
+    print('manual edit form git UI')
