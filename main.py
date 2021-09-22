@@ -8,6 +8,3 @@ if __name__ == '__main__':
     di = DataImporter()
     di.put_csv_into_df("C:/Users/user/Documents/B.A. Governance Sem.6/Heidelberg Master/macropy/testfile.csv")
     print(di.data)
-
-#scheun wie linearmodels hier rein!!!
-t te
